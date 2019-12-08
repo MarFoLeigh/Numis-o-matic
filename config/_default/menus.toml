@@ -9,22 +9,22 @@
   weight = 10
 
 [[main]]
-  name = "Posts"
+  name = "Paradata"
   url = "#posts"
   weight = 20
 
 [[main]]
-  name = "Projects"
+  name = "Right to Vote"
   url = "#projects"
   weight = 30
 
 [[main]]
-  name = "Publications"
+  name = "Canadian Flag"
   url = "#featured"
   weight = 40
 
 [[main]]
-  name = "Contact"
+  name = "LGBTQ2+ Rights"
   url = "#contact"
   weight = 60
 
