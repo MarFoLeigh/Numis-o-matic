@@ -4,14 +4,16 @@ title: Picturing LGBTQ2+ Resistance
 # optional header image (relative to 'static/img/' folder).
 header:
   caption: ""
-  image: "Equality-coin.jfif"
+  image: ""
 ---
+
+![alternativetxt](/img/Equality-coin.jfif)
 
 In the Spring of 2019, the Canadian Mint released a coin commemorating 50 years of LGBTQ2+ rights. The coin itself references the 1969 decriminalization of homosexuality and encourages Canadians to think about how much progress has been made in the last half-century. However, this coin leaves much to be desired and hides more than most Canadians realize. To celebrate fifty years of LGBTQ2+ when the Canadian Government actively discriminated against its own employees, firing thousands and destroying the lives of many is disingenuous and inaccurate to say the least. So, what is Canada’s relationship with LGBTQ2+ communities and why are so many people upset about this coin?
 
-*     *     *     *    
+**It’s time to flip the coin and learn more about Canada’s not-so-cold war on queers.** 
 
-*It’s time to flip the coin and learn more about Canada’s not-so-cold war on queers.* 
+*     *     *     *  
 
 Beginning in 1950, the Canadian Government began purging its workforce of LGBTQ individuals—this included the public service and the Armed Forces. Spanning almost fifty years, 1950-1990, the LGBTQ Purge was facilitated by the Royal Canadian Mounted Police (RCMP), the Department of National Defence (DND) and the Department of National Health and Welfare (NHW). In order to enhance Canadian security during the Cold War gay men and lesbian women were interviewed, interrogated, humiliated, assaulted and dismissed from their careers. Perceived as a threat to security, LGBTQ government employees were believed to be at a higher risk for blackmail and understood to be unstable and unreliable individuals. 
 
