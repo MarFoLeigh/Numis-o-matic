@@ -4,7 +4,7 @@ title: Picturing LGBTQ2+ Resistance
 # optional header image (relative to 'static/img/' folder).
 header:
   caption: ""
-  image: ""
+  image: "Equality-coin.jfif"
 ---
 
 In the Spring of 2019, the Canadian Mint released a coin commemorating 50 years of LGBTQ2+ rights. The coin itself references the 1969 decriminalization of homosexuality and encourages Canadians to think about how much progress has been made in the last half-century. However, this coin leaves much to be desired and hides more than most Canadians realize. To celebrate fifty years of LGBTQ2+ when the Canadian Government actively discriminated against its own employees, firing thousands and destroying the lives of many is disingenuous and inaccurate to say the least. So, what is Canada’s relationship with LGBTQ2+ communities and why are so many people upset about this coin?
