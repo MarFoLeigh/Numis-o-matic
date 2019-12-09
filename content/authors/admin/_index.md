@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: M.S. Lafrenie
 
 # Organizations/Affiliations
 organizations:
