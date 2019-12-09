@@ -23,5 +23,7 @@ Additionally, the Canadian Government did not issue an apology or seek to compen
 
 Although it may seem like resistance was impossible, there are many stories of resilience and subversion. Through acts, big and small, LGBTQ public servants resisted by not providing information, by openly taking pride in their identities, by creating humorous songs to warn their friends of government surveillance and by partying in their private homes or trusted bars.
 
+*     *     *     *   
+
 To be candid, if I had the option, I would choose not to mint this coin at all. It is dishonest and erases the struggles of LGBTQ2+ communities in Canada. However, if I were to redesign this coin there are two options I would consider: celebrating LGBTQ resistance to the Purge or changing the dates to reflect what we’re truly commemorating. In the case of commemorating queer resistance, I would turn to queer communities today and ask them what symbols are important to them. So, my design would feature a pink triangle (referencing the Act Up! Movement and the Nazi prisoners of war) and the words, “Resist, Reform, Remember” 1950-1990. In the second scenario, my coin would read: “Reform for Equality,” 1988-2019.
 
