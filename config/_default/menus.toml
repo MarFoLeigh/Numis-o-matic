@@ -9,19 +9,19 @@
   weight = 10
 
 [[main]]
-  name = "LGBTQ2+ Rights"
+  name = "Coins"
   url = "#posts"
   weight = 20
 
 [[main]]
-  name = "Right to Vote"
+  name = "Resources"
   url = "#projects"
   weight = 40
 
-[[main]]
-  name = "Canadian Flag"
-  url = "#featured"
-  weight = 60
+# [[main]]
+  # name = "Canadian Flag"
+  # url = "#featured"
+  # weight = 60
 
 # [[main]]
  # name = "Contact"
@@ -33,4 +33,4 @@
 [[main]]
     name = "Paradata"
     url = "files/paradata-lafrenie-2019.pdf"
-    weight = 80
+    weight = 60
