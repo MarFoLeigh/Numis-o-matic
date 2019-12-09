@@ -9,12 +9,12 @@ header:
 
 ![alternativetxt](/img/2015-canada-25-cent-flag-coins.jpg)
 
----
-
 Much of what is considered to be quintessentially Canadian in the 21st century has a relatively short history dating back to the Cold War: The Charter of Rights and Freedoms, the Constitution, the National Anthem, and the Canadian Flag to name a few. Very seldom do we explore how these symbols came about and whether or not they actually represent all Canadians.
-*     *     *     *    
 
-*It’s time to flip the coin and learn more about how the red maple leaf flag came to be and the controversy it sparked.* 
+
+**It’s time to flip the coin and learn more about how the red maple leaf flag came to be and the controversy it sparked.** 
+
+*     *     *     *  
 
 While it may seem like a no-brainer that the red maple leaf represents Canada, not everyone felt that way when it was proposed as the design for our flag. Indeed, the whole concept of a new flag, independent from the British Empire sparked bitter debate. For the better part of two years the Canadian Government anxiously waited for a decision from the parliamentary committee in charge of receiving submissions from Canadians. Designs were submitted by the young and the old, they were even assigned as class projects. Although maple leaves were the feature of many flag designs there were an equal amount of designs that featured other Canadian icons: geese, fleur-de-lys, beavers and so on. There were also more abstract submissions that incorporated the northern lights or relied on specific colours for meaning (red: for British descendants and blue: for French descendants),
 Many Canadians were excited at the prospect of a new symbol for Canada and hoped it would represent the newly emerging Canadian identity. However, there were Canadians who viewed the entire process as blasphemous: they already had a flag and they were not just Canadian, they British-Canadians and proud of it. So, who was right? Who won the debate? And did we end up with a flag representative of our communities?
@@ -25,12 +25,12 @@ There were many trajectories for the Canadian flag design just as there are many
 
 If I were able to design a coin in commemoration of the Flag Debate I would release a series of coins with various designs submitted by Canadians.
 
-![alternativetxt](/img/Canada_Flag_Coin_1.jpg)
+1. ![alternativetxt](/img/Canada_Flag_Coin_1.jpg)
 
-![alternativetxt](/img/Canada_Flag_Coin_2.jpg)
+2. ![alternativetxt](/img/Canada_Flag_Coin_2.jpg)
 
-![alternativetxt](/img/Canada_Flag_Coin_3.jpg)
+3. ![alternativetxt](/img/Canada_Flag_Coin_3.jpg)
 
-![alternativetxt](/img/Canada_Flag_Coin_4.jpg)
+4. ![alternativetxt](/img/Canada_Flag_Coin_4.jpg)
 
-![alternativetxt](/img/Canada_Flag_Coin_5.jpg)
+5. ![alternativetxt](/img/Canada_Flag_Coin_5.jpg)
