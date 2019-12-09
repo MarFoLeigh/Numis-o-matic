@@ -27,10 +27,3 @@ If I were able to design a coin in commemoration of the Flag Debate I would rele
 
 # ![alternativetxt](/img/Canada_Flag_Coin_1.jpg)
 
-# ![alternativetxt](/img/Canada_Flag_Coin_2.jpg)
-
-# ![alternativetxt](/img/Canada_Flag_Coin_3.jpg)
-
-# ![alternativetxt](/img/Canada_Flag_Coin_4.jpg)
-
-# ![alternativetxt](/img/Canada_Flag_Coin_5.jpg)
