@@ -1,6 +1,11 @@
 ---
 title: Fracturing Canadian Identity
 
+# optional header image (relative to 'static/img/' folder).
+header:
+  caption: ""
+  image: ""
+---
 
 ![alternativetxt](/img/2015-canada-25-cent-flag-coins.jpg)
 
